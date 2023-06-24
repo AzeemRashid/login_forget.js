@@ -1,0 +1,45 @@
+
+.formstyle{
+   
+    background: blue;
+    text-align: center;
+    padding: auto;
+    
+
+    
+   
+}
+.labels{
+    color: white;
+    font-size: 20px;
+   
+}
+body{
+    margin:0 auto;
+    padding: 0  20px 20px 20px;
+    width: 600px;
+    border:4px solid black;
+    background-color: aqua;
+    text-align: center;
+
+ color: white;
+}
+input{
+    background-color: blue;
+    border: 2px solid white;
+    color:white ;
+    
+}
+img{
+    text-align: left;
+    width:120x;
+    max-height: fit-content;
+}
+span{
+    font-size:39px;
+    margin-left: 70px;
+    
+}
+    label{
+        margin-inline: 12px;
+    }
